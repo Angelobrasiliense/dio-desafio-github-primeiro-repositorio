@@ -1,0 +1,34 @@
+Comandos no Git Bash 
+(Exemplos que eu entendi)
+
+-> Cd + o nome do arquivo ou pasta
+
+Usado para entrar em (pasta, arquivo ou repositório).
+
+-> Cd ..
+
+Usado para sair de (pasta, arquivo ou repositório).
+
+-> Ctrl + L
+
+Usado para limpar o terminal.
+
+-> Git Clone + o link do repositório
+
+Usado para clonar um repositório para a maquina (PC/Laptop).
+
+-> Git status
+
+Usado basicamente para checar se ocorreu mudança no arquivo ou pasta.
+
+-> Git add . ou Git add -A
+
+Usado para adicionar um arquivo para o controle de inversão local.
+
+->  Git commit -m "comentário do commit deve fazer sentido"
+
+Usado para criar um commit pro arquivo que eu quero enviar ou atualizar no github.
+
+-> Git push origin main
+
+Usado para enviar arquivos para nuven.
